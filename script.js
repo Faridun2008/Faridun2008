@@ -6,7 +6,7 @@ function funksiya() {
         if (x == "") {
             throw "Ismingizni kiriting";
         } else if (parseInt(x)) {
-            throw "Raqam bo'lmasinda eee dscds sdsdsd!";
+            throw "Raqam bo'lmasinda eee dscds sdwerqtgvrymwiu5yjbtvwmkuuuumyusdsd!";
         }
     } catch (err) {
         message.innerHTML = err;
